@@ -17,6 +17,6 @@ table tr td {
     text-align: center;
     border: 1px solid white;
 }
-td {
+.td {
     border: 3px solid #141E30;
 }
