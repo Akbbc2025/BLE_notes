@@ -11,5 +11,5 @@ img {
     border: 1;
 }
 href {
-    color: blue;
+    color: blue; !important
 }
