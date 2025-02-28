@@ -13,7 +13,7 @@ img {
 .link {
     color: #FFD700;
 }
-table {
+table tr td {
     text-align: center;
     border: 3px solid white;
 }
