@@ -20,8 +20,17 @@ img {
   text-align: justify;
   border: 1;
 }
-.link {
-    color: #FFD700;
+a:link {
+    color: #FFD700; /* Color for unvisited links */
+}
+a:visited {
+    color: purple; /* Color for visited links */
+}
+a:hover {
+    color: #DC143C; /* Color when hovered */
+}
+a:active {
+    color: green; /* Color when clicked */
 }
 table tr td {
     text-align: center;
