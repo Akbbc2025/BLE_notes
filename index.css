@@ -10,6 +10,6 @@ img {
   text-align: justify;
     border: 1;
 }
-ul href {
-    color: blue !important;
+.link {
+    color: cyan;
 }
