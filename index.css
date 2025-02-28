@@ -1,6 +1,7 @@
 * {
     background-color: #141E30;
     color: white;
+    font-family: 'Raleway', sans-serif;
 }
 h1 {
     text-decoration: underline;
@@ -17,7 +18,7 @@ h4 {
 img {
   width: 365;
   text-align: justify;
-    border: 1;
+  border: 1;
 }
 .link {
     color: #FFD700;
