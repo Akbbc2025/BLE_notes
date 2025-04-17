@@ -44,6 +44,6 @@ td {
     border: 0px solid #141E30;
 }
 .head {
-    text-decoration: bold;
+    font-weight: bold;
     text-decoration: underline;
 }
