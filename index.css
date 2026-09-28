@@ -1,8 +1,10 @@
 * {
-    background-color: #141E30;
     color: white;
     font-family: 'Raleway', sans-serif;
     scroll-behavior: smooth;
+}
+body {
+    background-color:#141E30;
 }
 h1 {
     text-decoration: underline;
