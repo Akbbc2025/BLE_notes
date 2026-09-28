@@ -49,6 +49,7 @@ td {
 .head {
     font-weight: bold;
     text-decoration: underline;
+    text-align: center;
 }
 nav {
     display: flex;
@@ -71,7 +72,7 @@ nav a {
     padding-bottom:0px;
 }
 .abssubtitle {
-    font-size:46px;
+    font-size:32px;
     text-decoration: underline;
     font-weight: bold;
     text-align: center;
