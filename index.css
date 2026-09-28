@@ -68,3 +68,8 @@ nav a {
     border-left: 1px solid white;
     padding: 20px;
 }
+.abssubtitle {
+text-size:80px;
+text-decoration: underline;
+font-weight: bold;
+}
