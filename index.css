@@ -19,7 +19,7 @@ h4 {
     text-decoration: underline;
 }
 img {
-    overflow: scroll;
+  overflow: scroll;
   width: 365;
   text-align: justify;
   border: 1;
@@ -54,12 +54,10 @@ nav {
     display: flex;
     gap: 20px;
     padding: 15px;
-    background: #222;
+    background: #141E30;
     font-size: 37px;
     text-align: center;
     justify-content: center;
-    border-left: 1px solid white;
-    border-right: 1px solid white;
 }
 .ledge{
     border-left: 0px;
@@ -70,4 +68,6 @@ nav {
 nav a {
     color: white !important;
     text-decoration: none;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
 }
