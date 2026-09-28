@@ -55,7 +55,7 @@ nav {
     gap: 20px;
     padding: 15px;
     background: #141E30;
-    font-size: 32px;
+    font-size: 23px;
     text-align: center;
     justify-content: center;
 }
@@ -69,7 +69,7 @@ nav a {
     padding: 20px;
 }
 .abssubtitle {
-text-size:80px;
+font-size:32px;
 text-decoration: underline;
 font-weight: bold;
 text-align: center;
