@@ -71,8 +71,11 @@ nav a {
     padding-bottom:0px;
 }
 .abssubtitle {
-font-size:32px;
-text-decoration: underline;
-font-weight: bold;
-text-align: center;
+    font-size:32px;
+    text-decoration: underline;
+    font-weight: bold;
+    text-align: center;
+}
+nav a:visited {
+    color:#D4AF37;
 }
