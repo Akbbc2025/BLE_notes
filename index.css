@@ -25,7 +25,7 @@ img {
   border: 1;
 }
 a:link {
-    color: #FFD700; /* Color for unvisited links */
+    color: #D4AF37; /* Color for unvisited links */
 }
 a:visited {
     color: purple; /* Color for visited links */
@@ -63,7 +63,7 @@ nav {
     border-right: 1px solid white;
 }
 nav a {
-    color:#FFD700; !important;
+    color: #D4AF37; !important;
     text-decoration: none;
     border-left: 1px solid white;
     padding: 20px;
