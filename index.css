@@ -55,6 +55,8 @@ nav {
     background: #222;
     font-size: 80px;
     text-align: center;
+    justify-content: center;
+    background: white;
 }
 
 nav a {
