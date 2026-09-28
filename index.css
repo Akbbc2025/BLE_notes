@@ -60,14 +60,11 @@ nav {
     justify-content: center;
 }
 .ledge{
-    border-left: 0px;
-}
-.redge{
-    border-right: 0px;
+    border-right: 1px solid white;
 }
 nav a {
     color: white !important;
     text-decoration: none;
     border-left: 1px solid white;
-    border-right: 1px solid white;
+    padding: 2px;
 }
