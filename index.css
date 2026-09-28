@@ -55,7 +55,7 @@ nav {
     gap: 20px;
     padding: 15px;
     background: #141E30;
-    font-size: 37px;
+    font-size: 32px;
     text-align: center;
     justify-content: center;
 }
@@ -63,7 +63,7 @@ nav {
     border-right: 1px solid white;
 }
 nav a {
-    color: white !important;
+    color:#FFD700; !important;
     text-decoration: none;
     border-left: 1px solid white;
     padding: 20px;
