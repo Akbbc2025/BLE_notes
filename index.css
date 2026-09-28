@@ -55,13 +55,13 @@ nav {
     gap: 20px;
     padding: 15px;
     background: #222;
-    font-size: 80px;
+    font-size: 37px;
     text-align: center;
     justify-content: center;
     background: white;
 }
 
 nav a {
-    color: #4DD0E1 !important;
+    color: #141E30 !important;
     text-decoration: none;
 }
