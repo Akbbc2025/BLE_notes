@@ -58,10 +58,16 @@ nav {
     font-size: 37px;
     text-align: center;
     justify-content: center;
-    background: white;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
 }
-
+.ledge{
+    border-left: 0px;
+}
+.redge{
+    border-right: 0px;
+}
 nav a {
-    color: #141E30 !important;
+    color: white !important;
     text-decoration: none;
 }
