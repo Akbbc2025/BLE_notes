@@ -59,12 +59,12 @@ nav {
     text-align: center;
     justify-content: center;
 }
-.ledge{
+.redge{
     border-right: 1px solid white;
 }
 nav a {
     color: white !important;
     text-decoration: none;
     border-left: 1px solid white;
-    padding: 2px;
+    padding: 20px;
 }
