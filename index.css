@@ -22,7 +22,7 @@ img {
   overflow: scroll;
   width: 365;
   text-align: justify;
-  border: 1;
+  border: 1px;
 }
 a:link {
     color: #D4AF37; /* Color for unvisited links */
@@ -64,7 +64,7 @@ nav {
     border-right: 1px solid white;
 }
 nav a {
-    color: #D4AF37; !important;
+    color: #D4AF37 !important;
     text-decoration: none;
     border-left: 1px solid white;
     padding: 20px;
@@ -80,6 +80,7 @@ nav a {
 nav a:visited {
     color:#D4AF37;
 }
-.hidden {
-    color:#141E30;
+.devhidlink {
+    color:#141E30 !important;
+    opacity: 0;
 }
